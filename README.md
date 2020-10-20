@@ -6,7 +6,7 @@ E. Chrostek, E.,  Martins, N. E., Marialva, M. S., Teixeira, L. 2020. *Wolbachia
 
 ## Files:
 * Analysis.Rmd - R markdown file with analysis script
-* [Analysis.pdf - PDF output from running the Analysis.Rmd](https://github.com/lteixeira/Wolbachia_antiviral_protection_and_developmental_temperature/blob/main/Analysis.pdf)
+* [Analysis.pdf - PDF output from running Analysis.Rmd](https://github.com/lteixeira/Wolbachia_antiviral_protection_and_developmental_temperature/blob/main/Analysis.pdf)
 * dataset_s1.txt - Data for figures 1A, B
 * dataset_s2.txt - Data for figure 1C
 * dataset_s3.txt - Data for figure 1D
