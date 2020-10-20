@@ -5,8 +5,8 @@ This repository contains the data and analysis for the manuscript:
 E. Chrostek, E.,  Martins, N. E., Marialva, M. S., Teixeira, L. 2020. *Wolbachia*-conferred antiviral protection is determined by developmental temperature. bioRxiv, doi: [https://doi.org/10.1101/2020.06.24.169169](https://doi.org/10.1101/2020.06.24.169169)
 
 ## Files:
-* analysis.Rmd - R markdown file with analysis script
-* [analysis.pdf - PDF output from running the analysis.Rmd](https://github.com/lteixeira/Wolbachia_antiviral_protection_and_developmental_temperature/blob/main/Analysis.pdf)
+* Analysis.Rmd - R markdown file with analysis script
+* [Analysis.pdf - PDF output from running the Analysis.Rmd](https://github.com/lteixeira/Wolbachia_antiviral_protection_and_developmental_temperature/blob/main/Analysis.pdf)
 * dataset_s1.txt - Data for figures 1A, B
 * dataset_s2.txt - Data for figure 1C
 * dataset_s3.txt - Data for figure 1D
